@@ -1,4 +1,4 @@
-FROM python:alpine
+FROM python:3-alpine3.18
 
 MAINTAINER frekele <leandro@frekele.org>
 
